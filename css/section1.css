@@ -1,0 +1,249 @@
+.one {
+  position: absolute;
+  width: 1248px;
+  height: 754px;
+  left: 240px;
+  top: 47px;
+}
+
+.one-top {
+  position: absolute;
+  width: 1120px;
+  height: 60px;
+  left: 240px;
+  top: 47px;
+}
+
+.one-top-logo {
+  position: absolute;
+  width: 49px;
+  height: 35px;
+  left: 240px;
+  top: 59px;
+}
+
+.one-top-logo-rectangle-33 {
+  position: absolute;
+  width: 20px;
+  height: 35px;
+  left: 269px;
+  top: 59px;
+  background: #F063B8;
+  border-radius: 20px;
+}
+
+.one-top-logo-rectangle-32 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 240px;
+  top: 74px;
+  background: #9C69E2;
+  border-radius: 20px;
+}
+
+.one-top-nav {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 410px;
+  top: 62px;
+}
+
+.one-top-nav-text1 {
+  position: absolute;
+  width: 51px;
+  height: 26px;
+  left: 681px;
+  top: 64px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  /* identical to box height, or 26px */
+  /* 1 */
+  color: #4B5D68;
+}
+
+.one-top-nav-text2 {
+  position: absolute;
+  width: 63px;
+  height: 26px;
+  left: 578px;
+  top: 64px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  /* identical to box height, or 26px */
+  /* 1 */
+  color: #4B5D68;
+}
+
+.one-top-nav-text3 {
+  position: absolute;
+  width: 35px;
+  height: 26px;
+  left: 503px;
+  top: 64px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  /* identical to box height, or 26px */
+  /* 1 */
+  color: #4B5D68;
+}
+
+.one-top-nav-text4 {
+  position: absolute;
+  width: 53px;
+  height: 30px;
+  left: 410px;
+  top: 62px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+  /* 2 */
+  color: #212353;
+}
+
+.one-top-btn-group-57 {
+  position: absolute;
+  width: 152px;
+  height: 26px;
+  left: 1179px;
+  top: 64px;
+}
+
+.one-top-btn-group-56 {
+  position: absolute;
+  width: 20px;
+  height: 14px;
+  left: 1311px;
+  top: 70px;
+}
+
+.one-top-btn-vector {
+  position: absolute;
+  width: 20px;
+  height: 0px;
+  left: 1311px;
+  top: 77px;
+}
+
+.one-top-btn-poly {
+  position: absolute;
+  width: 14px;
+  height: 6px;
+  left: 1331px;
+  top: 70px;
+  border: 2px solid #9C69E2;
+  box-sizing: border-box;
+  transform: rotate(90deg);
+}
+
+.one-top > button {
+  position: absolute;
+  width: 210px;
+  height: 60px;
+  left: 1150px;
+  top: 47px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 160%;
+  /* identical to box height, or 26px */
+  align-items: center;
+  letter-spacing: 0.005em;
+  /* 2 */
+  color: #212353;
+  background: #FFFFFF;
+  box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+}
+
+.one-headline {
+  position: absolute;
+  width: 645px;
+  height: 464px;
+  left: 240px;
+  top: 237px;
+}
+
+.one-headline-txt-1 {
+  position: absolute;
+  width: 645px;
+  height: 184px;
+  left: 240px;
+  top: 237px;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 110%;
+  /* or 88px */
+  display: flex;
+  align-items: center;
+  /* 2 */
+  color: #212353;
+}
+
+.one-headline > button {
+  position: absolute;
+  width: 170px;
+  height: 60px;
+  left: 240px;
+  top: 641px;
+  background: #9C69E2;
+  border-radius: 50px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 160%;
+  /* identical to box height, or 29px */
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.one-headline > h2 {
+  position: absolute;
+  width: 96px;
+  height: 29px;
+  left: 277px;
+  top: 657px;
+}
+
+.one-headline-txt-2 {
+  position: absolute;
+  width: 380px;
+  height: 120px;
+  left: 240px;
+  top: 471px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+  /* or 29px */
+  /* 1 */
+  color: #4B5D68;
+}
+
+.one-headline > img {
+  position: absolute;
+  width: 885px;
+  height: 468px;
+  left: 603px;
+  top: 333px;
+  background: url(image1.png);
+}
