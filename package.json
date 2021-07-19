@@ -1,0 +1,24 @@
+{
+  "name": "clickup-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRoel/clickup-project.git"
+  },
+  "author": "Brennan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRoel/clickup-project/issues"
+  },
+  "homepage": "https://github.com/BRoel/clickup-project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0"
+  }
+}
